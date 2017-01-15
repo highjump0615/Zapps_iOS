@@ -1,4 +1,4 @@
-# Zapps (Android)
+# Zapps (iOS)
 
 Something like voice twitter; you can record your voice and other environments or so, and post to ask help or for other things too.
 
